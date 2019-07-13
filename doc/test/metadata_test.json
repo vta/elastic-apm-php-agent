@@ -1,0 +1,2 @@
+{"service": {"name": "1234_service-12a3", "language": {"name": "ecmascript"}, "agent": {"version": "3.14.0", "name": "elastic-node"}},"process": {"pid": 1234, "title": "My process name", "argv": ["some value","another value"]}, "system": {"container": {"id": "container-id"}, "kubernetes": {"namespace": "namespace", "pod": {"uid": "pod-uid", "name": "pod-name"}, "node": {"name": "node-name"}}}}
+
