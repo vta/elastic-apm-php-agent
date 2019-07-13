@@ -1,7 +1,12 @@
+# Composer generated files
 composer.lock
 vendor/
 phpunit.xml
 composer.phar
+# OS X file cache
 .DS_STORE
+# IDE project files
+*.iml
 .idea
+# Cache files
 .phpunit.result.cache
